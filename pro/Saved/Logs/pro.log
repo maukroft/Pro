@@ -576,3 +576,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.26-18.41.56:707][318]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
 [2024.06.26-18.41.58:358][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2024.06.26-18.42.19:474][683]LogSlate: Window 'Source Control Login' being destroyed
+[2024.06.26-18.43.05:261][762]LogActorFactory: Actor Factory created Sphere
+[2024.06.26-18.43.07:636][ 45]LogActorFactory: Actor Factory created Sphere
