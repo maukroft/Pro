@@ -593,3 +593,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.26-18.45.54:625][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2024.06.26-18.46.05:841][ 72]LogActorFactory: Actor Factory created Sphere
 [2024.06.26-18.46.06:775][183]LogActorFactory: Actor Factory created Sphere
+[2024.06.26-18.48.38:268][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
