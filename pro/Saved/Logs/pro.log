@@ -578,3 +578,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.26-18.42.19:474][683]LogSlate: Window 'Source Control Login' being destroyed
 [2024.06.26-18.43.05:261][762]LogActorFactory: Actor Factory created Sphere
 [2024.06.26-18.43.07:636][ 45]LogActorFactory: Actor Factory created Sphere
+[2024.06.26-18.43.24:835][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.06.26-18.43.27:967][997]LogActorFactory: Actor Factory created Sphere
+[2024.06.26-18.43.30:231][268]LogActorFactory: Actor Factory created Sphere
+[2024.06.26-18.43.32:482][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
